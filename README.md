@@ -1,6 +1,6 @@
-# Hi there, I'm Eugene 👋
+# Hi there, I'm Eugene
 
-## I'm a Junior Frontend developer 🌚
+## I'm a Junior Frontend developer
 
 
 ### Connect with me:
@@ -14,9 +14,11 @@
 ### Languages and Tools:
 <img align="left" alt="VSCode" width="22px" src="http://simpleicons.org/icons/visualstudiocode.svg"/>
 <img align="left" alt="JS" width="22px" src="http://simpleicons.org/icons/javascript.svg"/>
-<img align="left" alt="Telegram" width="22px" src="http://simpleicons.org/icons/visualstudiocode.svg"/>
-<img align="left" alt="Telegram" width="22px" src="http://simpleicons.org/icons/visualstudiocode.svg"/>
-<img align="left" alt="Telegram" width="22px" src="http://simpleicons.org/icons/visualstudiocode.svg"/>
+<img align="left" alt="Vue" width="22px" src="http://simpleicons.org/icons/vue-dot-js.svg"/>
+<img align="left" alt="React" width="22px" src="http://simpleicons.org/icons/react.svg"/>
+<img align="left" alt="HTML" width="22px" src="http://simpleicons.org/icons/html5.svg"/>
+<img align="left" alt="CSS" width="22px" src="http://simpleicons.org/icons/css3.svg"/>
+<img align="left" alt="Github" width="22px" src="http://simpleicons.org/icons/github.svg"/>
 
 
 <br />
