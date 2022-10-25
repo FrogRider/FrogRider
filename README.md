@@ -15,7 +15,7 @@
 ### Languages and Tools:
 <img align="left" alt="VSCode" width="22px" src="http://simpleicons.org/icons/visualstudiocode.svg"/>
 <img align="left" alt="JS" width="22px" src="http://simpleicons.org/icons/javascript.svg"/>
-<img align="left" alt="Vue" width="22px" src="http://simpleicons.org/icons/vue-dot-js.svg"/>
+<img align="left" alt="Vue" width="22px" src="https://simpleicons.org/icons/vuedotjs.svg"/>
 <img align="left" alt="React" width="22px" src="http://simpleicons.org/icons/react.svg"/>
 <img align="left" alt="HTML" width="22px" src="http://simpleicons.org/icons/html5.svg"/>
 <img align="left" alt="CSS" width="22px" src="http://simpleicons.org/icons/css3.svg"/>
