@@ -1,6 +1,6 @@
 # Hi there, I'm Eugene 👋
 
-## I'm a Junior Frontend developer 🌚
+## I'm a Middle Frontend developer 🌚
 
 
 ### Connect with me:
